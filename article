@@ -1,1 +1,53 @@
+<h1 class="title is-size-1 has-text-centered">
+    Application of AI to daily life  
+    </h1>
+    <p class="subtitle has-text-grey has-text-centered">
+    
+        By Chen Yee Ren and  Kor Jia Rui (5C31)
+      <br>
+    
+    <span class="post-date">16 August 2019</span>
+  </p>
+
+What is AI?
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning and self-correction. The machine is fed with large amounts of data and is programmed with specified rules for using the information. The machines will use these rules to reach meaningful conclusions. After which, they can use these new skills they have “learnt” to carry out a wider array of tasks which was originally done by a human.
+
+
+Why is AI important?
+Living in the fast-paced dynamic 21st century, technology is rapidly advancing and AI is one of the technology that is fueling the growth of it. Around the world, countries are constantly striving to increase effectiveness and improve on the ways things are done. AI can help to increase efficiency as AI can replace human labour in doing monotonous and repetitive tasks. As such, more people can be assigned to do tasks of higher skill requirement. Also, AI is cheaper than human labour as they do need to be placated with benefits, and can lead to large cost savings.
+
+
+What are some examples of AI being used in our lives?
+
+Japan has one of the highest proportions of elderly people, with over 28% of Japanese population officially old, meaning they are 65 years old or above. This has resulted in a large increase in demand for eldercare services. It is estimated that for every 3 elderly, there is 1 staff taking care of them, though some facilities have 6 elderly to 1 staff. As such, AI is being used to make up for a shortage of about 380,000 volunteers needed by 2025 to care for all the elderly persons.
+
+In Carehouse Seele in the city of Tsukuba, not far from Tokyo, a device is placed around the neck of the elderly to detect breathing or swallowing problems to notify caregivers should the elderly person require any assistance. Improper swallowing can cause aspiration pneumonia, one of the top causes of death amongst elderly persons in Japan. 
+
+Source: Straitstimes.com, 2019
+
+Remote controlled wheelchairs are also being developed, where caregivers can control multiple wheelchairs at once with a set of virtual reality goggles. These innovations allow more elderly people to be monitored at a single point in time, reducing the strain on eldercare centres.
+
+Apart from the eldercare sector in Japan, AI is also used to compensate for the shortage of manpower in Indonesia.
+
+In Indonesian rainforests such as West Sumatra, it is hard for park rangers to determine deforestation activities, due to white noise from animals and wildlife. Engineer Topher White developed a system of using handphones to collect audio samples from different parts of the rainforest. These handphones are placed on tall trees and can detect noises within a 3 kilometer radius. The sounds collected are then passed through an algorithm in a cloud system to filter out sounds of chainsaws and machinery. 
+
+
+Source: Straitstimes.com, 2019
+
+
+This results in a real time detection system for park rangers to take quick action should illegal deforestation activities take place, to apprehend the loggers or make a report to the authorities. This comes as a large improvement from satellite imaging which takes several days to weeks to catch illegal loggers, allowing locals and park rangers to better safeguard the rainforests and prevent loss of habitats through deforestation.
+
+However, Artificial Intelligence also has disadvantages such as invasion of privacy.
+
+Cameras are nearly everywhere, and artificial intelligence is able to use facial recognition algorithms to identify a specific person. For example, Dragonfly Eye System, a facial scanning platform, can identify a person from a database of at least 2 billion people in a matter of seconds. The ability to distinguish people within seconds allows the company to store the information collected in their database. People might be monitored 24/7 using the Closed-circuit television around the country, which is an invasion of privacy.
+
+Moreover, AI systems are susceptible to hacking or technical errors. An overreliance on these computer systems could mean that we would be left vulnerable in the event of a system failure where the computer systems are unresponsive.
+
+All in all, while Artificial intelligence has an almost limitless potential to be tapped on, at its current state, it is still far from perfect and has many flaws which means that humans are not entirely replaced by AI just yet. However, it is still undeniable that AI has adversely impacted our lives, in broad daylight or unbeknownst to us. Hopefully, in the near future, humans can continue to improve its AI systems to capitalise on the benefits and minimise the ill effects it brings.
+
+Sources:
+
+The Straits Times, (2019). Fill the gap in nursing care workers | The Japan Times. [online] The Japan Times. Available at: https://www.japantimes.co.jp/opinion/2018/06/26/editorials/fill-gap-nursing-care-workers/
+
+Salleh Nur, (2019). The age of artificial intelligence: 'Guardians' in Padang send alerts when forests face threats. [online] The Straits Times. Available at: https://www.straitstimes.com/asia/guardians-send-alerts-when-forests-face-threats
 
